@@ -80,9 +80,6 @@ Edit
 📸 Project Media
 Sample Terminal Output
 
-![Screenshot 2025-07-02 203443](https://github.com/user-attachments/assets/0d2494de-0437-4603-a7b1-b0f2a701947c)
-
-
 ![image](https://github.com/user-attachments/assets/257058af-ada8-4a14-b212-2f6dffaeb780)
 
 Project demo :
