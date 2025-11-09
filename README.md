@@ -79,8 +79,9 @@ Edit
 
 📸 Project Media
 Sample Terminal Output
+<img width="1900" height="1021" alt="Screenshot 2025-11-09 154717" src="https://github.com/user-attachments/assets/18d1059a-ba2f-417e-b682-5298552a2626" />
+<img width="1428" height="517" alt="Screenshot 2025-11-09 155136" src="https://github.com/user-attachments/assets/b509cec5-617c-4b4a-bb7c-de47102ec1c3" />
 
-![image](https://github.com/user-attachments/assets/257058af-ada8-4a14-b212-2f6dffaeb780)
 
 Project demo :
 https://drive.google.com/file/d/1o0OzGpIWuilUab2rAK9S0rQuD-zCmFor/view?usp=sharing
